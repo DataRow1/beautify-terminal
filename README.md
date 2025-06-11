@@ -1,5 +1,7 @@
 # Beautify your terminal
 
+A simple guide to beautify your (zsh) terminal.
+
 ## Index
 
 - [Mac Terminal Beautification Guide](#Mac)
